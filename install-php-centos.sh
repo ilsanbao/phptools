@@ -1,6 +1,6 @@
 #!/bin/bash
 
-PHP_VERSION="5.5.0"
+PHP_VERSION="5.5.7"
 
 yum -y install \
     curl-devel.x86_64 \
